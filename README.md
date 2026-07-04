@@ -74,7 +74,7 @@ This project demonstrates an intelligent edge device capable of handling both us
 <p align="center">
  <img width="700" height="465" alt="Project Circuit" src="https://github.com/user-attachments/assets/22894fb4-2c89-4122-a427-858045f111de">
 </p>
----
+
 
 ## 💻 Technologies Used
 
@@ -105,7 +105,3 @@ This project demonstrates an intelligent edge device capable of handling both us
 *  IoT Edge Devices
 
 ---
-
-## 📄 License
-
-This project is developed for **educational and learning purposes**.
