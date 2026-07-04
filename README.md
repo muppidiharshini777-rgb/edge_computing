@@ -71,7 +71,9 @@ This project demonstrates an intelligent edge device capable of handling both us
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dc24fe61-c9b7-443a-8026-38a7f5e2bc6d" alt="Project Circuit" width="700">
 </p>
-
+<p align="center">
+ <img width="700" height="465" alt="Project Circuit" src="https://github.com/user-attachments/assets/22894fb4-2c89-4122-a427-858045f111de">
+</p>
 ---
 
 ## 💻 Technologies Used
